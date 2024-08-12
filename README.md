@@ -1,2 +1,2 @@
-# index.html
+# WARDICE
 WARDICE Código HTML
